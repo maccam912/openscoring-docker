@@ -22,14 +22,14 @@
 	</developers>
 
 	<scm>
-		<connection>scm:git:git@github.com:jpmml/openscoring-docker.git</connection>
-		<developerConnection>scm:git:git@github.com:jpmml/openscoring-docker.git</developerConnection>
-		<url>git://github.com/jpmml/openscoring-docker.git</url>
+		<connection>scm:git:git@github.com:maccam912/openscoring-docker.git</connection>
+		<developerConnection>scm:git:git@github.com:maccam912/openscoring-docker.git</developerConnection>
+		<url>git://github.com/maccam912/openscoring-docker.git</url>
 		<tag>HEAD</tag>
 	</scm>
 	<issueManagement>
 		<system>GitHub</system>
-		<url>https://github.com/jpmml/openscoring-docker/issues</url>
+		<url>https://github.com/maccam912/openscoring-docker/issues</url>
 	</issueManagement>
 
 	<dependencies>
